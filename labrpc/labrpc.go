@@ -1,5 +1,5 @@
 // Package rpc is an intentionally incomplete RMI assignment template.
-package rpc
+package labrpc
 
 import (
 	"bufio"
